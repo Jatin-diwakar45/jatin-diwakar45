@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Jatin
+💻 Backend Developer
+🚀 Currently working on MERN projects  
+🌱 Learning Node.js & DevOps  
 
-<!--
-**Jatin-diwakar45/jatin-diwakar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React, Node.js, MongoDB
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/jatin-diwakar-80606b309/
+- Portfolio: https://jatindiwakar45.vercel.app/
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
